@@ -39,4 +39,5 @@ When we push code to Github, microservices pipeline triggers, build docker image
 
 ![cicd](https://user-images.githubusercontent.com/1147445/105671542-f37c3700-5ef3-11eb-9532-59a5855214d0.png)
 
+New Line
 You’ll see how to deploy your multi-container microservices applications with automating all deployment process seperately.
